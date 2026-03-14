@@ -1,0 +1,6 @@
+{
+  "ping_description": "Μετρά τον λανθάνοντα χρόνο του bot.",
+  "ping_response": "Πονγκ! Gecikme: {{latency}}ms",
+  "ready_log": "Συνδεθήκατε ως {{user}}!",
+  "interaction_error": "Παρουσιάστηκε σφάλμα κατά την εκτέλεση αυτής της εντολής!"
+}

@@ -1,0 +1,6 @@
+{
+  "ping_description": "Måler bottens latenstid.",
+  "ping_response": "Pong! Gecikme: {{latency}}ms",
+  "ready_log": "Logget ind som {{bruger}}!",
+  "interaction_error": "Der opstod en fejl under kørsel af denne kommando!"
+}

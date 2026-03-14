@@ -1,0 +1,6 @@
+{
+  "ping_description": "Méri a bot késleltetési idejét.",
+  "ping_response": "Pong! Gecikme: {{latency}} ms",
+  "ready_log": "Bejelentkezve mint {{user}}!",
+  "interaction_error": "Hiba történt a parancs futtatása közben!"
+}

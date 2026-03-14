@@ -1,0 +1,6 @@
+{
+  "ping_description": "Mierzy opóźnienie bota.",
+  "ping_response": "Pong! Gecikme: {{latency}}ms",
+  "ready_log": "Zalogowano jako {{user}}!",
+  "interaction_error": "Wystąpił błąd podczas uruchamiania tego polecenia!"
+}

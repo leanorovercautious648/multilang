@@ -1,0 +1,6 @@
+{
+  "ping_description": "Měří latenci robota.",
+  "ping_response": "Pong! Gecikme: {{latency}}ms",
+  "ready_log": "Jste přihlášeni jako {{user}}!",
+  "interaction_error": "Při spouštění tohoto příkazu došlo k chybě!"
+}

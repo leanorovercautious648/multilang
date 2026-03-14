@@ -1,0 +1,6 @@
+{
+  "ping_description": "Измерва латентността на бота.",
+  "ping_response": "Понг! Време: {{latency}}ms",
+  "ready_log": "Влезли сте като {{user}}!",
+  "interaction_error": "Възникна грешка при изпълнение на тази команда!"
+}

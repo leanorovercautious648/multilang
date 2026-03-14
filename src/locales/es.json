@@ -1,0 +1,6 @@
+{
+  "ping_description": "Mide la latencia del bot.",
+  "ping_response": "¡Apestar! Generación: {{latencia}}ms",
+  "ready_log": "¡Ha iniciado sesión como {{usuario}}!",
+  "interaction_error": "¡Ocurrió un error al ejecutar este comando!"
+}

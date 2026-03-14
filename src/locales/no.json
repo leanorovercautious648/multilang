@@ -1,0 +1,6 @@
+{
+  "ping_description": "Måler botens latens.",
+  "ping_response": "Pong! Gecikme: {{latency}}ms",
+  "ready_log": "Logget på som {{user}}!",
+  "interaction_error": "Det oppstod en feil under kjøring av denne kommandoen!"
+}

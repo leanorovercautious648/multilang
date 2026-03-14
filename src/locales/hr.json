@@ -1,0 +1,6 @@
+{
+  "ping_description": "Mjeri latenciju bota.",
+  "ping_response": "tenis! Gecikme: {{latency}}ms",
+  "ready_log": "Prijavljeni ste kao {{user}}!",
+  "interaction_error": "Došlo je do pogreške prilikom izvođenja ove naredbe!"
+}

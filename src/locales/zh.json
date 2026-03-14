@@ -1,0 +1,6 @@
+{
+  "ping_description": "测量机器人的延迟。",
+  "ping_response": "乒！时间：{{延迟}}毫秒",
+  "ready_log": "以 {{user}} 身份登录！",
+  "interaction_error": "运行此命令时发生错误！"
+}

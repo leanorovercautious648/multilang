@@ -1,0 +1,6 @@
+{
+  "ping_description": "Mittaa botin latenssia.",
+  "ping_response": "Pong! Gecikme: {{latency}} ms",
+  "ready_log": "Kirjautunut sisään käyttäjänä {{user}}!",
+  "interaction_error": "Tätä komentoa suoritettaessa tapahtui virhe!"
+}

@@ -1,0 +1,6 @@
+{
+  "ping_description": "Mesure la latence du bot.",
+  "ping_response": "Pong ! Temps : {{latency}} ms",
+  "ready_log": "Connecté en tant que {{user}} !",
+  "interaction_error": "Une erreur s'est produite lors de l'exécution de cette commande !"
+}

@@ -1,0 +1,6 @@
+{
+  "ping_description": "วัดเวลาแฝงของบอท",
+  "ping_response": "ปอง! ความเร็ว: {{latency}}ms",
+  "ready_log": "เข้าสู่ระบบด้วย {{user}}!",
+  "interaction_error": "เกิดข้อผิดพลาดขณะรันคำสั่งนี้!"
+}

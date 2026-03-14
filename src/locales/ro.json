@@ -1,0 +1,6 @@
+{
+  "ping_description": "Măsoară latența botului.",
+  "ping_response": "Pong! Gecikme: {{latency}}ms",
+  "ready_log": "Conectat ca {{user}}!",
+  "interaction_error": "A apărut o eroare la rularea acestei comenzi!"
+}

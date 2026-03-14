@@ -1,0 +1,6 @@
+{
+  "ping_description": "Đo độ trễ của bot.",
+  "ping_response": "Bàng! Thời gian: {{latency}}ms",
+  "ready_log": "Đã đăng nhập với tư cách {{user}}!",
+  "interaction_error": "Đã xảy ra lỗi khi chạy lệnh này!"
+}

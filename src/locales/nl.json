@@ -1,0 +1,6 @@
+{
+  "ping_description": "Meet de latentie van de bot.",
+  "ping_response": "Pong! Gecikme: {{latency}}ms",
+  "ready_log": "Ingelogd als {{user}}!",
+  "interaction_error": "Er is een fout opgetreden tijdens het uitvoeren van deze opdracht!"
+}

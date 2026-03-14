@@ -1,0 +1,6 @@
+{
+  "ping_description": "Matuoja roboto delsą.",
+  "ping_response": "Pong! Gecikme: {{latency}} ms",
+  "ready_log": "Prisijungęs kaip {{user}}!",
+  "interaction_error": "Vykdant šią komandą įvyko klaida!"
+}
