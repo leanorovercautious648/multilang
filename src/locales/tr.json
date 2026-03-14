@@ -1,0 +1,6 @@
+{
+    "ping_description": "Botun gecikmesini ölçer.",
+    "ping_response": "Pong! Gecikme: {{latency}}ms",
+    "ready_log": "{{user}} olarak giriş yapıldı!",
+    "interaction_error": "Bu komutu çalıştırırken bir hata oluştu!"
+}
